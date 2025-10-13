@@ -1,6 +1,6 @@
 # Low-Code Virtual Café Assistant with Google AI & n8n
 
-[Leia em Português do Brasil](./ptversion/README.pt-br.md)
+[Leia em Português do Brasil](./README.pt-br.md)
 
 This project demonstrates how to build a fully functional, intelligent chatbot for a café using a completely low-code approach. The assistant can answer questions about the men and provide store hours.
 
