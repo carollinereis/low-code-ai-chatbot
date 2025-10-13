@@ -4,7 +4,7 @@
 
 Um modelo low-code para criar um assistente de IA para comunicação usando **n8n** e **Google Gemini**.
 
-**[Ver o Diagrama de Arquitetura do Projeto](./images/architecture-diagram.png)**
+**[Ver o Diagrama de Arquitetura do Projeto](./img/architecture-diagram.png)**
 
 Este projeto oferece um fluxo de trabalho visual e simples para criar o backend de um chatbot que pode responder a perguntas com base em um prompt personalizado. Ele foi projetado para ser implementado em minutos.
 
