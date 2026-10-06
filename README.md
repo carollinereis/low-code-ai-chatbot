@@ -2,7 +2,7 @@
 
 [Leia em Português do Brasil](./README.pt-br.md)
 
-This project demonstrates how to build a fully functional, intelligent chatbot for a café using a completely low-code approach. The assistant can answer questions about the men and provide store hours.
+This project demonstrates how to build a fully functional, intelligent chatbot for a café using a completely low-code approach. The assistant can answer questions about the menu and provide store hours.
 
 It leverages the power of Google's Gemini models for conversational AI and n8n for visual workflow automation, allowing you to go from idea to deployment without writing complex code.
 
